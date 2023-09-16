@@ -1,0 +1,6 @@
+# Ignore binary model files
+*.bin
+*.model
+
+# Ignore directories containing binary models
+/23_classes_ACM_66/
